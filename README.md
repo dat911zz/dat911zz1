@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dat911zz1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @dat911zz
+- 👀 I’m interested in Web dev.
+- 🌱 I’m currently learning C/C++/C#/HTML/CSS.
+- 💞️ I’m looking to collaborate on a company or a team
+- 📫 Mail: datcy2011@gmail.com
 
 <!---
 dat911zz1/dat911zz1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
