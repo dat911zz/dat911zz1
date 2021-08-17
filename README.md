@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dat911zz
 - 👀 I’m interested in Web dev.
-- 🌱 I’m currently learning C/C++/C#/HTML/CSS.
+- 🌱 I’m currently learning C/C++/C#/HTML/CSS/JavaScript.
 - 💞️ I’m looking to collaborate on a company or a team
 - 📫 Mail: datcy2011@gmail.com
 
